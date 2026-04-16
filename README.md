@@ -41,4 +41,4 @@ You can browse a collection of books, see details like price and description, an
 ## 💻 Installation & Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/MariamFarhat55/Book_App
+git clone  https://github.com/MariamFarhat55/Book_App
